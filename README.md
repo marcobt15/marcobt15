@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello 👋
+
+  * __Name__: Marco Toito
+  * __Education__: 3rd Year Computer Science student at Carleton University
+  * __Specialization__: Artificial Intelligence and Machine Learning stream with a minor in Mathematics
+  * __Contact__: Reach out to me at marcobtoito@gmail.com
 
 <!--
 **marcobt15/marcobt15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
